@@ -1,0 +1,17 @@
+{
+  "name": "com.farfinabazar.app",
+  "version": "1.0.0",
+  "displayName": "Farfina Bazar",
+  "cordova": {
+    "platforms": [
+      "android",
+      "ios",
+      "windows"
+    ]
+  },
+  "dependencies": {
+    "cordova-android": "~6.3.0",
+    "cordova-windows": "^5.0.0",
+    "cordova-ios": "~4.5.4"
+  }
+}
